@@ -15,6 +15,7 @@
  - algospot/BRAVE
  - algospot/DECUAL
  - algospot/ZZAKSTR
+ - algospot/MOON (2016/07/11)
 
 # Online judge sites
 
