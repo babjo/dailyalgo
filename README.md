@@ -5,18 +5,22 @@
 # Solutions
 
 - java
- - algospot/AUTOPRODUCTION
- - algospot/BOOKSTORE
- - algospot/CLUBROOM
- - algospot/DICT
+    - algospot/AUTOPRODUCTION
+    - algospot/BOOKSTORE
+    - algospot/CLUBROOM
+    - algospot/DICT
 
 - cpp
-
- - algospot/BRAVE
- - algospot/DECUAL
- - algospot/ZZAKSTR
- - algospot/MOON (2016/07/11)
+    - algospot/BRAVE
+    - algospot/DECUAL
+    - algospot/ZZAKSTR
+    - algospot/MOON (2016/07/11 업데이트)
+ 
+- javascript
+    - leetcode/Combination_Sum_IV ([Go to the problem](https://leetcode.com/problems/combination-sum-iv/)) (2016/07/27 업데이트)
+    - leetcode/Super_Pow ([Go to the problem](https://leetcode.com/problems/super-pow/)) (2016/07/27 업데이트)
 
 # Online judge sites
 
-http://algospot.com
+- http://algospot.com
+- https://leetcode.com
