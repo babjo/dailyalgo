@@ -19,6 +19,7 @@
 - javascript
     - leetcode/Combination_Sum_IV ([Go to the problem](https://leetcode.com/problems/combination-sum-iv/)) (2016/07/27 업데이트)
     - leetcode/Super_Pow ([Go to the problem](https://leetcode.com/problems/super-pow/)) (2016/07/27 업데이트)
+    - leetcode/Valid_Perfect_Square ([Go to the problem](https://leetcode.com/problems/valid-perfect-square/)) (2016/07/28 업데이트)
 
 # Online judge sites
 
