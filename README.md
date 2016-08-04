@@ -23,6 +23,7 @@
 
 - python
     - leetcode/Top_K_FRequent_Elements ([Go to the problem](https://leetcode.com/problems/top-k-frequent-elements/)) (2016/08/03 업데이트)
+    - leetcode/verify-preorder-serialization-of-a-binary-tree ([Go to the problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)) (2016/08/04 업데이트)
 
 # Online judge sites
 
