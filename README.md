@@ -26,7 +26,7 @@
     - leetcode/verify-preorder-serialization-of-a-binary-tree ([Go to the problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)) (2016/08/04 업데이트)
     - geeksforgeeks/optimal-binary-search-tree ([Go to the problem](http://www.geeksforgeeks.org/dynamic-programming-set-24-optimal-binary-search-tree/)) (2016/08/17 업데이트)
     - leetcode/largest-divisible-subset ([Go to the problem](https://leetcode.com/problems/largest-divisible-subset/)) (2016/08/19 업데이트)
-
+    - leetcode/design-twitter ([Go to the problem](https://leetcode.com/problems/design-twitter/)) (2016/08/22 업데이트)
 
 # Online judge sites
 
