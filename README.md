@@ -42,6 +42,8 @@
     - leetcode/palindrome-pairs ([Go to the problem](https://leetcode.com/problems/palindrome-pairs/)) (2016/08/24 업데이트)
     - leetcode/expression-add-operators ([Go to the problem](https://leetcode.com/problems/expression-add-operators/)) (2016/09/04 업데이트)
     - backjoon/print-star-7 ([Go to the problem](https://www.acmicpc.net/problem/2444)) (2016/09/06 업데이트)
+    - backjoon/num-triangle ([Go to the problem](https://www.acmicpc.net/problem/1932)) (2016/09/07 업데이트)
+    - backjoon/find-a-man ([Go to the problem](https://www.acmicpc.net/problem/1764)) (2016/09/07 업데이트)
 
 # Online judge sites
 
