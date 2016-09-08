@@ -44,6 +44,8 @@
     - backjoon/print-star-7 ([Go to the problem](https://www.acmicpc.net/problem/2444)) (2016/09/06 업데이트)
     - backjoon/num-triangle ([Go to the problem](https://www.acmicpc.net/problem/1932)) (2016/09/07 업데이트)
     - backjoon/find-a-man ([Go to the problem](https://www.acmicpc.net/problem/1764)) (2016/09/07 업데이트)
+    - backjoon/sum-sub-set ([Go to the problem](https://www.acmicpc.net/problem/1182)) (2016/09/08 업데이트)
+    - backjoon/find-my-seat ([Go to the problem](https://www.acmicpc.net/problem/10157)) (2016/09/08 업데이트)
 
 # Online judge sites
 
